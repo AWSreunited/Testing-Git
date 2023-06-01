@@ -1,3 +1,7 @@
 this is a test file
 it will be pushed onto github repository "Testing-Git" from Seoul ec2 instance
 it has been pulled by the Tokyo ec2 instance.
+I didn't config user name and email in the last commit
+Now I have pulled testfile again from github test repo and now config user and email.
+Let's see what name it shows on github commit. last time it was root.
+if it works it must be Saqib Rafiq this time.
